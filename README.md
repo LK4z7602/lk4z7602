@@ -16,7 +16,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lk4z7602&theme=dark&layout=compact&show_icons=true&count-private=true&exclude_repo=caseirinhos-amalia,viqueze-landing-hub,viqueze-v0,MoonlightBot-docs" min-width="400px" max-width="400px" width="400px" align="right">
 
-<!-- ### Languages ⚙️ -->
+### Languages ⚙️
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" align="center" height="80" width="90"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" align="center" height="80" width="90"/>
