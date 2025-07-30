@@ -1,6 +1,6 @@
 # Hi There, I'm LK4z! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 
-<img src="https://github-readme-stats.vercel.app/api?username=devemdobro&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide=issues" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://github-readme-stats.vercel.app/api?username=lk4z7602&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide=issues" min-width="400px" max-width="400px" width="400px" align="right">
 
 > 💻 I started to coding at `11/06/2024`
 >
