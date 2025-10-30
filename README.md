@@ -8,7 +8,7 @@
 >
 > 🤔 Curious and in constant learning
 >
-> 👩‍💻 Current I am studying webdevelopment
+> 👩‍💻 Current I am studying web development
 >
 > 🤖 I would like to study AIs
 
