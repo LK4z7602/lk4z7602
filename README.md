@@ -65,25 +65,22 @@ A fun API project using TypeScript to display Studio Ghibli–styled cards.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4,5&height=220&section=header&text=Front-End%20Developer&fontSize=60&fontColor=ffffff&fontAlignY=35&animation=fadeIn" width="100%">
 
-<p align="left">
-  <font size="7"><strong >Hey there, I'm LK4z! </strong></font> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50">
-</p>
+<font size="7"><strong >Hey there, I'm LK4z! </strong></font> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50">
 
-<p align="left">
-  <font size="4">
-  Brazilian Front-End Developer on a journey since <strong>June 2024</strong>.<br> 
-  Currently focused on building front-end web applications with <strong>React</strong> and <strong>TypeScript</strong>. <br>
-  Passionate about how the <strong>technology</strong> can change our lives.</font>
-</p>
+<font size="4">
+Brazilian Front-End Developer on a journey since <strong>June 2024</strong>.<br> 
+Currently focused on building front-end web applications with <strong>React</strong> and <strong>TypeScript</strong>. <br>
+Passionate about how the <strong>technology</strong> can change our lives.
+</font>
 
 ---
 
 <div align="center">
-  <p><font size=6><strong>My Stack</strong></font></p>
+  <font size=6><strong>My Stack 🛠️</strong></font> <br><br>
   <a>
     <img src="https://skillicons.dev/icons?i=js,ts,react" height="70"  style="margin-bottom: 10px;"/>
   </a>
-  <br />
+  <br>
   <img src="https://img.shields.io/badge/html5-e34e26?style=for-the-badge&logo=html5&logoColor=white" />
     <img src="https://img.shields.io/badge/CSS3-1c76b8?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/TailwindCSS-3ebff8?style=for-the-badge&logo=tailwind-css&logoColor=white" />
@@ -101,7 +98,7 @@ A fun API project using TypeScript to display Studio Ghibli–styled cards.
 
 <br>
 
-<p><strong>Featured Projects 🔥</strong></p>
+<!-- <p><strong>Featured Projects 🔥</strong></p>
 
 <div>
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=LK4z7602&repo=NOME_DO_REPO_01&theme=dracula&bg_color=0d1117&title_color=A855F7&hide_border=true" width="100%" />
@@ -109,13 +106,14 @@ A fun API project using TypeScript to display Studio Ghibli–styled cards.
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=LK4z7602&repo=NOME_DO_REPO_02&theme=dracula&bg_color=0d1117&title_color=A855F7&hide_border=true" width="100%" />
 </div>
 
-<br/>
+<br/> -->
 
-<p size="4"><strong>📊 Performance & Metrics</strong></p>
+<font size=5><strong>📊 Performance & Metrics</strong></font>
 <p align="center">
-  <img src="./profile/stats.svg" alt="Github Stats" height="180px" />
-  <img src="./profile/top-langs.svg" alt="Top Languages" height="180px" />
+  <img src="./profile/stats.svg" alt="Github Stats" width="400px" />
+  <img src="./profile/top-langs.svg" alt="Top Languages" width="360px" />
 </p>
+<br>
 
 <div align="right">
   <p style="font-weight: bold;"><i>"The mind that opens to a new idea never returns to its original size."</i></p>
