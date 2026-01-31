@@ -65,57 +65,58 @@ A fun API project using TypeScript to display Studio Ghibli–styled cards.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4,5&height=220&section=header&text=Front-End%20Developer&fontSize=60&fontColor=ffffff&fontAlignY=35&animation=fadeIn" width="100%">
 
-<font size="7"><strong >Hey there, I'm LK4z! </strong></font> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50">
+# <strong >Hey there, I'm LK4z! </strong> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50">
 
-<font size="4">
-Brazilian Front-End Developer on a journey since <strong>June 2024</strong>.<br> 
+Brazilian Front-End Developer on a journey since <strong>June 2024</strong>.<br>
 Currently focused on building front-end web applications with <strong>React</strong> and <strong>TypeScript</strong>. <br>
 Passionate about how the <strong>technology</strong> can change our lives.
-</font>
 
 ---
 
+<div id="user-content-toc">
+  <ul align="center" style="list-style: none;">
+    <summary>
+      <h2>Tech Stack 🛠️</h2>
+    </summary>
+  </ul>
+</div> 
+
 <div align="center">
-  <font size=6><strong>My Stack 🛠️</strong></font> <br><br>
-  <a>
-    <img src="https://skillicons.dev/icons?i=js,ts,react" height="70"  style="margin-bottom: 10px;"/>
-  </a>
-  <br>
-  <img src="https://img.shields.io/badge/html5-e34e26?style=for-the-badge&logo=html5&logoColor=white" />
-    <img src="https://img.shields.io/badge/CSS3-1c76b8?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/TailwindCSS-3ebff8?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tanstack_Query-fc3f32?style=for-the-badge&logo=tanstack&logoColor=white" />
-  <img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=react-hook-form&logoColor=white" />
-  <img src="https://img.shields.io/badge/Zod-3e77ff?style=for-the-badge&logo=zod&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vite-a552fe?style=for-the-badge&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/React_Router-d10a22?style=for-the-badge&logo=react-router&logoColor=white" />
-  <br>
-  <img src="https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-12d086?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/git-000000?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=js,ts,react" height="70"  style="margin-bottom: 10px;"/>
 
+
+
+<img src="https://img.shields.io/badge/html5-e34e26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1c76b8?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/TailwindCSS-3ebff8?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+<img src="https://img.shields.io/badge/Tanstack_Query-fc3f32?style=for-the-badge&logo=tanstack&logoColor=white" />
+<img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=react-hook-form&logoColor=white" />
+<img src="https://img.shields.io/badge/Zod-3e77ff?style=for-the-badge&logo=zod&logoColor=white" />
+<img src="https://img.shields.io/badge/Vite-a552fe?style=for-the-badge&logo=vite&logoColor=white" />
+<img src="https://img.shields.io/badge/React_Router-d10a22?style=for-the-badge&logo=react-router&logoColor=white" />
+<br>
+<img src="https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Figma-12d086?style=for-the-badge&logo=figma&logoColor=white" />
+<img src="https://img.shields.io/badge/git-000000?style=for-the-badge&logo=git&logoColor=white" />
 </div>
-
 <br>
 
-<!-- <p><strong>Featured Projects 🔥</strong></p>
 
-<div>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=LK4z7602&repo=NOME_DO_REPO_01&theme=dracula&bg_color=0d1117&title_color=A855F7&hide_border=true" width="100%" />
+<div id="user-content-toc">
+  <ul align="center" style="list-style: none;">
+    <summary>
+      <h2>Performance & Metrics 📊</h2>
+    </summary>
+  </ul>
+</div> 
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=LK4z7602&repo=NOME_DO_REPO_02&theme=dracula&bg_color=0d1117&title_color=A855F7&hide_border=true" width="100%" />
-</div>
-
-<br/> -->
-
-<font size=5><strong>📊 Performance & Metrics</strong></font>
 <p align="center">
-  <img src="./profile/stats.svg" alt="Github Stats" width="400px" />
-  <img src="./profile/top-langs.svg" alt="Top Languages" width="360px" />
+  <img src="./profile/stats.svg" alt="Github Stats" width="370px" />
+  <img src="./profile/top-langs.svg" alt="Top Languages" width="330px" />
 </p>
 <br>
 
 <div align="right">
   <p style="font-weight: bold;"><i>"The mind that opens to a new idea never returns to its original size."</i></p>
-  <p align="right" style="color: lightgrey;"><font size="2">- Albert Einstein</font></p>
+  <p align="right" style="color: lightgrey;"><font size="2"><i>- Albert Einstein</i></font></p>
 </div>
