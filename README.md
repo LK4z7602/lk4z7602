@@ -78,8 +78,8 @@ A fun API project using TypeScript to display Studio Ghibli–styled cards.
 
 ---
 
-<div align="center" style="padding: 0px 100px">
-  <p style="font-weight: bold;"><font size=6><strong>My Stack</strong></font></p>
+<div align="center">
+  <p><font size=6><strong>My Stack</strong></font></p>
   <a>
     <img src="https://skillicons.dev/icons?i=js,ts,react" height="70"  style="margin-bottom: 10px;"/>
   </a>
@@ -103,7 +103,7 @@ A fun API project using TypeScript to display Studio Ghibli–styled cards.
 
 <p><strong>Featured Projects 🔥</strong></p>
 
-<div style="display: flex; justify-content: center;">
+<div>
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=LK4z7602&repo=NOME_DO_REPO_01&theme=dracula&bg_color=0d1117&title_color=A855F7&hide_border=true" width="100%" />
 
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=LK4z7602&repo=NOME_DO_REPO_02&theme=dracula&bg_color=0d1117&title_color=A855F7&hide_border=true" width="100%" />
@@ -112,7 +112,7 @@ A fun API project using TypeScript to display Studio Ghibli–styled cards.
 <br/>
 
 <p size="4"><strong>📊 Performance & Metrics</strong></p>
-<p style="display: flex; justify-content: center; gap: 30px;">
+<p align="center">
   <img src="./profile/stats.svg" alt="Github Stats" height="180px" />
   <img src="./profile/top-langs.svg" alt="Top Languages" height="180px" />
 </p>
