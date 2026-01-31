@@ -23,11 +23,9 @@ Passionate about how the <strong>technology</strong> can change our lives.
 </div> 
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=js,ts,react" height="100" width="400"/>
+<img src="https://skillicons.dev/icons?i=js,ts,react" height="100" width="320"/>
 <br>
 <br>
-<br>
-
 
 <img src="https://img.shields.io/badge/html5-e34e26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1c76b8?style=for-the-badge&logo=html5&logoColor=white" />
