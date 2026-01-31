@@ -21,14 +21,17 @@
     </summary>
   </ul>
 </div> 
+<br>
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=js,ts,react" height="70"  style="margin-bottom: 10px;"/>
+<img src="https://skillicons.dev/icons?i=js,ts,react" height="100"  style="margin-bottom: 10px;"/>
 <br>
+
 
 <img src="https://img.shields.io/badge/html5-e34e26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1c76b8?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/TailwindCSS-3ebff8?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+<br>
 <img src="https://img.shields.io/badge/Tanstack_Query-fc3f32?style=for-the-badge&logo=tanstack&logoColor=white" />
 <img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=react-hook-form&logoColor=white" />
 <img src="https://img.shields.io/badge/Zod-3e77ff?style=for-the-badge&logo=zod&logoColor=white" />
