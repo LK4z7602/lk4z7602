@@ -8,9 +8,9 @@
   </ul>
 </div> 
 
-Brazilian Front-End Developer on a journey since <strong>June 2024</strong>.<br>
-Currently focused on building front-end web applications with <strong>React</strong> and <strong>TypeScript</strong>. <br>
-Passionate about how the <strong>technology</strong> can change our lives.
+#### Brazilian Front-End Developer on a journey since <strong>June 2024</strong>.<br>
+#### Currently focused on building front-end web applications with <strong>React</strong> and <strong>TypeScript</strong>. <br>
+#### Passionate about how the <strong>technology</strong> can change our lives.
 
 ---
 
@@ -59,6 +59,6 @@ Passionate about how the <strong>technology</strong> can change our lives.
 <br>
 
 <div align="right">
-  <p style="font-weight: bold;"><i>"The mind that opens to a new idea never returns to its original size."</i></p>
+  <h4 style="font-weight: bold;"><i>"The mind that opens to a new idea never returns to its original size."</i></p>
   <p align="right" style="color: lightgrey;"><font size="2"><i>- Albert Einstein</i></font></p>
 </div>
