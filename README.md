@@ -1,10 +1,16 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4&height=220&section=header&text=Front-End%20Developer&fontSize=60&fontColor=ffffff&fontAlignY=35&animation=fadeIn" width="100%">
 
-# <strong >Hey there, I'm LK4z! </strong> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50">
+<div id="user-content-toc">
+  <ul align="left" style="list-style: none;">
+    <summary>
+      <h1>Hey there, I'm LK4z!</h1>   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
+    </summary>
+  </ul>
+</div> 
 
-Brazilian Front-End Developer on a journey since <strong>June 2024</strong>.<br>
-Currently focused on building front-end web applications with <strong>React</strong> and <strong>TypeScript</strong>. <br>
-Passionate about how the <strong>technology</strong> can change our lives.
+> Brazilian Front-End Developer on a journey since <strong>June 2024</strong>.<br>
+> Currently focused on building front-end web applications with <strong>React</strong> and <strong>TypeScript</strong>. <br>
+> Passionate about how the <strong>technology</strong> can change our lives.
 
 ---
 
@@ -18,8 +24,7 @@ Passionate about how the <strong>technology</strong> can change our lives.
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=js,ts,react" height="70"  style="margin-bottom: 10px;"/>
-
-
+<br>
 
 <img src="https://img.shields.io/badge/html5-e34e26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1c76b8?style=for-the-badge&logo=html5&logoColor=white" />
