@@ -8,9 +8,9 @@
   </ul>
 </div> 
 
-> Brazilian Front-End Developer on a journey since <strong>June 2024</strong>.<br>
-> Currently focused on building front-end web applications with <strong>React</strong> and <strong>TypeScript</strong>. <br>
-> Passionate about how the <strong>technology</strong> can change our lives.
+Brazilian Front-End Developer on a journey since <strong>June 2024</strong>.<br>
+Currently focused on building front-end web applications with <strong>React</strong> and <strong>TypeScript</strong>. <br>
+Passionate about how the <strong>technology</strong> can change our lives.
 
 ---
 
@@ -21,10 +21,11 @@
     </summary>
   </ul>
 </div> 
-<br>
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=js,ts,react" height="100"  style="margin-bottom: 10px;"/>
+<img src="https://skillicons.dev/icons?i=js,ts,react" height="100" width="400"/>
+<br>
+<br>
 <br>
 
 
