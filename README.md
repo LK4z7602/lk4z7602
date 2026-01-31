@@ -8,9 +8,9 @@
   </ul>
 </div> 
 
-#### Brazilian Front-End Developer on a journey since <strong>June 2024</strong>.<br>
-#### Currently focused on building front-end web applications with <strong>React</strong> and <strong>TypeScript</strong>. <br>
-#### Passionate about how the <strong>technology</strong> can change our lives.
+Brazilian Front-End Developer on a journey since <strong>June 2024</strong>.<br>
+Currently focused on building front-end web applications with <strong>React</strong> and <strong>TypeScript</strong>. <br>
+Passionate about how the <strong>technology</strong> can change our lives.
 
 ---
 
