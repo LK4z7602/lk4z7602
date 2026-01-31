@@ -1,69 +1,4 @@
-<!-- <h1 align="center">Hi There, I'm LK4z!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
-<p align="center"> 🚀Front-End Developer | Web Enthusiast</p>
-
-
-## 👨‍💻 About Me
-I'm a front-end developer who loves creating clean, modern, and intuitive web experiences.
-I'm currently diving deeper into **JavaScript, TypeScript, React, and TailwindCSS**, and exploring how **AI tools** can speed up development and creativity.
-
-I enjoy learning new things, polishing interfaces, and turning ideas into something real.
-
----
-
-## 🛠️ Tech Stack
-
-### 🧩 Languages
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts" />
-</p>
-
-### ⚛️ Frontend
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,tailwind," />
-</p>
-
-### 🧠 Tools & Platforms
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,figma" />
-</p>
-
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=LK4z7602&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LK4z7602&layout=compact&theme=tokyonight" />
-</p>
-
-
-## 🚀 Featured Projects
-
-### 🔥 Highlights
-
-🔹 **[conferidor-mega-sena](https://github.com/LK4z7602/conferidor-mega-sena)**
-A simple project that checks Mega-Sena results — built with JavaScript.
-
-🔹 **[todolist-app-project](https://github.com/LK4z7602/todolist-app-project)**
-A clean and functional to-do list app made with TypeScript.
-
-🔹 **[cards-studio-ghibli](https://github.com/LK4z7602/cards-studio-ghibli)**
-A fun API project using TypeScript to display Studio Ghibli–styled cards.
-
----
-
-## 🌐 Find Me
-<p align="left">
-  <a href="https://github.com/LK4z7602"><img src="https://skillicons.dev/icons?i=github" /></a>
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="mailto:YOUREMAIL@example.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-</p>
-
----
-
-### 🎯 Fun Fact
-> I code better with a cup of strong coffee — it's basically part of my workflow ☕💻 -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4,5&height=220&section=header&text=Front-End%20Developer&fontSize=60&fontColor=ffffff&fontAlignY=35&animation=fadeIn" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4&height=220&section=header&text=Front-End%20Developer&fontSize=60&fontColor=ffffff&fontAlignY=35&animation=fadeIn" width="100%">
 
 # <strong >Hey there, I'm LK4z! </strong> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50">
 
@@ -76,7 +11,7 @@ Passionate about how the <strong>technology</strong> can change our lives.
 <div id="user-content-toc">
   <ul align="center" style="list-style: none;">
     <summary>
-      <h2>Tech Stack 🛠️</h2>
+      <h1>Tech Stack 🛠️</h1>
     </summary>
   </ul>
 </div> 
@@ -105,7 +40,7 @@ Passionate about how the <strong>technology</strong> can change our lives.
 <div id="user-content-toc">
   <ul align="center" style="list-style: none;">
     <summary>
-      <h2>Performance & Metrics 📊</h2>
+      <h1>Performance & Metrics 📊</h1>
     </summary>
   </ul>
 </div> 
