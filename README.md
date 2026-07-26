@@ -28,7 +28,8 @@ Passionate about how the <strong>technology</strong> can change our lives.
 <br>
 
 <img src="https://img.shields.io/badge/html5-e34e26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1c76b8?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1c76b8?style=for-the-badge&logo=css&logoColor=white" />
+<img src="https://img.shields.io/badge/Next.JS-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/TailwindCSS-3ebff8?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 <img src="https://img.shields.io/badge/postgresql-396c94?style=for-the-badge&logo=postgresql&logoColor=white" />
 <br>
